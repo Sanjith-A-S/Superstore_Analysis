@@ -16,9 +16,9 @@ The dataset used is the **Sample Superstore** dataset, which includes:
 
 ## 🧰 Tools Used
 
-- Python 🐍
-- Pandas 🐼
-- Jupyter Notebook 💻
+- Python 
+- Pandas 
+- Jupyter Notebook 
 
 ---
 
