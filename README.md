@@ -1,10 +1,10 @@
-# 🛒 Superstore Sales Data Analysis only using pandas
+# Superstore Sales Data Analysis only using pandas
 
 This project involves Exploratory Data Analysis (EDA) of a retail Superstore dataset using only **Pandas**. The goal is to extract meaningful insights into sales performance, profitability, customer segments, and product trends — all without using any visualization tools (yet).
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset used is the **Sample Superstore** dataset, which includes:
 
@@ -14,7 +14,7 @@ The dataset used is the **Sample Superstore** dataset, which includes:
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - Python 
 - Pandas 
@@ -22,7 +22,7 @@ The dataset used is the **Sample Superstore** dataset, which includes:
 
 ---
 
-## 📊 Key Analysis Steps
+## Key Analysis Steps
 
 1. **Initial Overview of the Dataset**
 2. **Sales and Profit by Region**
@@ -37,7 +37,7 @@ The dataset used is the **Sample Superstore** dataset, which includes:
 
 ---
 
-## 📌 Insights & Highlights
+## Insights & Highlights
 
 - **Technology** is the most profitable category, with high margins.
 - **Furniture** generates high sales but low profit often due to heavy discounts.
@@ -48,7 +48,7 @@ The dataset used is the **Sample Superstore** dataset, which includes:
 
 ---
 
-## 📐 Summary Metrics
+## Summary Metrics
 
 | Metric                           | Value / Description                    |
 |----------------------------------|----------------------------------------|
